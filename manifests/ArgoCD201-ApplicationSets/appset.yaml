@@ -31,3 +31,5 @@ spec:
         namespace: "default"
       syncPolicy:
         automated: {}
+
+# bob
